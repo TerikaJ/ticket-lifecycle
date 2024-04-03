@@ -122,5 +122,5 @@ _You can find it under the "Closed" tab, where you can see how many was closed a
 <h1><p align=center> Done! Good job!</p></h1>
 
 <p align=right>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
-If you don't know how to, click <a href="https://github.com/terikaj/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>
+If you're unsure of how to do this, please click <a href="https://github.com/terikaj/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>
 </p>
