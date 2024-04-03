@@ -122,5 +122,5 @@ _You can find it under the "Closed" tab, where you can see how many was closed a
 <h1><p align=center> Done! Good job!</p></h1>
 
 <p align=right>Please delete & clean up your Azure resources when finished!<br>
-If you're unsure of how to do this, please click <a href="https://github.com/terikaj/azure-start/">HERE</a>
+If you're unsure of how to do this, please click <a href="https://github.com/terikaj/azure-begin">HERE</a>
 </p>
