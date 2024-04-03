@@ -6,7 +6,7 @@
 
 This demonstration outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system "osTicket".
 
-_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Post-Install Configuration"](https://github.com/terikaj/post-install-config)._
+_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Post-Installation Configuration"](https://github.com/terikaj/post-install-config)._
 
 <h2>Environments and Technologies Used</h2>
 
