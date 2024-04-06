@@ -35,7 +35,6 @@ _Our intake process will start by accessing the page where tickets are created; 
 - Click on "Open a New Ticket".
 <p align=center>
 <img width="750" alt="Screen Shot 2024-04-05 at 5 02 13 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/4ee6057e-5ffe-463b-a1d8-aec913aa950f">
-<img src="https://i.imgur.com/Udla59t.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 - Enter an Email Address and Full Name (this example uses **karen@osticket.com / Karen Karen**)
@@ -62,29 +61,29 @@ _Tickets have been made! We'll now go into the Agent's perspective of their end:
   - Once logged in, you now should see the created tickets from the customers.
 - Click on any available ticket (this example selects **entire mobile online banking is down**).
 <p align=center>
-<img width="1046" alt="Screen Shot 2024-04-05 at 5 16 03 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/614f4174-9b69-4422-ba82-9023165774a0">
-<img width="895" alt="Screen Shot 2024-04-05 at 5 17 00 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/22054865-6822-493d-be13-e20f0645b228">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 16 03 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/614f4174-9b69-4422-ba82-9023165774a0">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 17 00 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/22054865-6822-493d-be13-e20f0645b228">
 </p>
 
 _As an Agent, we'll observe and configure information within this ticket._
 
-_An event such as the entire mobile online banking being down is can have major impact on the company, potentially resulting in a loss of money and credibility. The severity on this ticket should be the highest, and will also be assigned to the departments/teams that are responsible for resolving this issue ASAP!_
-- Set Priorty from Normal to a higher level (this example uses **Emergency**).
-- Assign to a higher-tier department (this example uses **System Administrators**).
+_An event such as the entire mobile online banking being down is can have major impact on the company, potentially resulting in a loss of money and/or credibility. The severity on this ticket should be the highest, and will also be assigned to the departments/teams that are responsible for resolving this issue ASAP!_
+- Set Priorty from Normal to the highest level (this example uses **Emergency**).
+- Assign the ticket to a higher-tier department (this example uses **System Administrators**).
 - Assign a specific person(s) the responsbility to manage this ticket (this example uses the current user, **Jane Doe**).
 - Modify the SLA Plan from Normal to a higher level (this example uses **SEV-A**).
 <p align=center>
-<img src="https://i.imgur.com/V8WJ5GJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/JR8XMOt.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/CvAfVuZ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Wk23cCI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/QIbVd0K.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="895" alt="Screen Shot 2024-04-05 at 5 23 08 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/d053e2b6-d721-416e-b1a6-8121e0791968">
+<img width="609" alt="Screen Shot 2024-04-05 at 5 25 20 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/9bab1136-e791-46ce-97bc-72a19fa37021">
+<img width="610" alt="Screen Shot 2024-04-05 at 5 25 58 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/129b200c-098f-4b36-824e-560bf2858ca8">
+<img width="607" alt="Screen Shot 2024-04-05 at 5 26 39 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/6bc9d3dd-dd0a-4ca6-bbae-d11b4be8ea7a">
+<img width="606" alt="Screen Shot 2024-04-05 at 5 27 01 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/9de79dfe-7e99-4ec4-ad73-f6300c3b705b">
 </p>
 <hr>
 
 <h3>&#9314; Working the Issue</h3>
 
-_Observing the overview page, we can see every update happening within the Ticket Thread. As an Agent, we can communicate under Post Reply to bring status updates to anyone viewing this ticket or for conversational purposes regarding the issue at-hand._
+_As we observe the overview page, we can see every update taking place within the Ticket Thread. As an Agent, we can communicate under Post Reply to provide status updates to anyone viewing this ticket, also for providing accountability for the resolution of the ticket._
 <p align=center>
 <img src="https://i.imgur.com/qtVIjs7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
