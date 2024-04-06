@@ -21,10 +21,10 @@ _<b>NOTE:</b> This demonstration uses materials created in the previous demonstr
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake _(The creation of a ticket)_
-- Assignment _(Forwarding ticket and Customer Communication)_
-- Working the Issue _(Establishing a baseline and documenting the process)_
-- Resolution _(Closing the ticket)_
+- Intake - _(The creation of a ticket)_
+- Assignment - _(Forwarding ticket and Customer Communication)_
+- Working the Issue - _(Establishing a baseline and documenting the process)_
+- Resolution - _(Closing the ticket)_
 
 <h2>Lifecycle Stages</h2>
 
