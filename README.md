@@ -10,20 +10,21 @@ _<b>NOTE:</b> This demonstration uses materials created in the previous demonstr
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure (Virtual Machine)
+- Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- MacOS
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Intake (The creation of a ticket)
+- Assignment of the ticket and Customer Communication
+- Working the Issue (Establishing a baseline and documenting the process)
+- Resolution (Closing the ticket)
 
 <h2>Lifecycle Stages</h2>
 
