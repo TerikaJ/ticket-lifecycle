@@ -73,11 +73,11 @@ _An event such as the entire mobile online banking being down is can have major 
 - Assign a specific person(s) the responsbility to manage this ticket (this example uses the current user, **Jane Doe**).
 - Modify the SLA Plan from Normal to a higher level (this example uses **SEV-A**).
 <p align=center>
-<img width="895" alt="Screen Shot 2024-04-05 at 5 23 08 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/d053e2b6-d721-416e-b1a6-8121e0791968">
-<img width="609" alt="Screen Shot 2024-04-05 at 5 25 20 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/9bab1136-e791-46ce-97bc-72a19fa37021">
-<img width="610" alt="Screen Shot 2024-04-05 at 5 25 58 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/129b200c-098f-4b36-824e-560bf2858ca8">
-<img width="607" alt="Screen Shot 2024-04-05 at 5 26 39 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/6bc9d3dd-dd0a-4ca6-bbae-d11b4be8ea7a">
-<img width="606" alt="Screen Shot 2024-04-05 at 5 27 01 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/9de79dfe-7e99-4ec4-ad73-f6300c3b705b">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 23 08 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/d053e2b6-d721-416e-b1a6-8121e0791968">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 25 20 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/9bab1136-e791-46ce-97bc-72a19fa37021">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 25 58 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/129b200c-098f-4b36-824e-560bf2858ca8">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 26 39 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/6bc9d3dd-dd0a-4ca6-bbae-d11b4be8ea7a">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 27 01 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/9de79dfe-7e99-4ec4-ad73-f6300c3b705b">
 </p>
 <hr>
 
@@ -85,18 +85,18 @@ _An event such as the entire mobile online banking being down is can have major 
 
 _As we observe the overview page, we can see every update taking place within the Ticket Thread. As an Agent, we can communicate under Post Reply to provide status updates to anyone viewing this ticket, also for providing accountability for the resolution of the ticket._
 <p align=center>
-<img src="https://i.imgur.com/qtVIjs7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 5 30 21 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/e638c8fd-b6a8-4724-bcb2-4fd23f19d980">
 </p>
 
-- Under Post Reply, type in a random message.
-- Keep the Ticket Status to "Open (current)", assuming the issues isn't resolved.
+- Under Post Reply, type in a random message to the customer.
+- Keep the Ticket Status to "Open (current)", assuming the issue isn't resolved.
 - Click "Post Reply".
 <p align=center>
-<img src="https://i.imgur.com/P5tLSZ5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/YvCnXJe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 5 32 01 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/1174a412-477e-4295-a311-fe67a3050277">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 34 19 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/39ad198f-b054-4d5d-92d0-7fe1cda251ab">
 </p>
 
-_Like a virtual chat or messaging system, your message will be sent and posted on the thread. The thread will constantly be updated with conversations back and forth, or status changes while working on the issue at-hand._
+_Similar to a virtual chat or messaging system, our message will be sent and posted onto the thread. The thread will constantly be updated with dialogue or status changes while working on the ticket resolution._
 <hr>
 
 <h3>&#9315; Resolution</h3>
@@ -105,19 +105,21 @@ _Let's say the issue has finally been resolved:_
 - Under Post Reply, type in a random message stating a final update of the matter.
 - Change the Ticket Status to "Resolved".
 <p align=center>
-<img src="https://i.imgur.com/e1Ac4aR.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/vkOXsXv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 5 37 23 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/0a6ad4c3-a9a4-460f-9c68-6cb5f01b5458">
+<img width="750" alt="Screen Shot 2024-04-05 at 5 39 20 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/2b347fd9-6e39-4cb0-8be0-3bd42aabfeaa">
 </p>
 
 _Once a ticket is resolved, it is considered "closed", so it will disappear from the Open Tickets page._<br>
 _You can find it under the "Closed" tab, where you can see how many was closed at a certain time frame._
 <p align=center>
-<img src="https://i.imgur.com/xw9gHmX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 5 40 39 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/147c590d-1c91-4aa4-8a1d-146e56720678">
 </p>
 
 - Continue to go through the rest of the remaining tickets and use best judgement on their Priorty, assignment to departments and teams, etc.
 <p align=center>
-<img src="https://i.imgur.com/N68R5Y9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="899" alt="Screen Shot 2024-04-05 at 5 45 06 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/cffdf219-97da-4ed9-93c6-4e5d46c7ea86">
+<img width="902" alt="Screen Shot 2024-04-05 at 5 45 52 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/0fe674cb-7a08-4b72-a758-0a1ed6eec8b9">
+<img width="900" alt="Screen Shot 2024-04-05 at 5 47 22 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/8ba0619a-10a0-408c-a21f-d6149690c209">
 </p>
 <hr>
 
