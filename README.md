@@ -89,33 +89,33 @@ _As we observe the overview page, we can see every update taking place within th
 </p>
 
 - Under Post Reply, type in a random message to the customer.
-- Keep the Ticket Status to "Open (current)", assuming the issue isn't resolved.
+- Keep the Ticket Status "Open (current)", since the issue isn't resolved.
 - Click "Post Reply".
 <p align=center>
 <img width="750" alt="Screen Shot 2024-04-05 at 5 32 01 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/1174a412-477e-4295-a311-fe67a3050277">
 <img width="750" alt="Screen Shot 2024-04-05 at 5 34 19 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/39ad198f-b054-4d5d-92d0-7fe1cda251ab">
 </p>
 
-_Similar to a virtual chat or messaging system, our message will be sent and posted onto the thread. The thread will constantly be updated with dialogue or status changes while working on the ticket resolution._
+_Similar to a virtual chat or messaging system, our message will be posted onto the thread. The thread will continue to be updated with dialogue or status changes while team members are working on the ticket's resolution._
 <hr>
 
 <h3>&#9315; Resolution</h3>
 
-_Let's say the issue has finally been resolved:_
-- Under Post Reply, type in a random message stating a final update of the matter.
+_Let's say the issue has been resolved:_
+- Under Post Reply, type a random message giving final update on the ticket.
 - Change the Ticket Status to "Resolved".
 <p align=center>
 <img width="750" alt="Screen Shot 2024-04-05 at 5 37 23 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/0a6ad4c3-a9a4-460f-9c68-6cb5f01b5458">
 <img width="750" alt="Screen Shot 2024-04-05 at 5 39 20 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/2b347fd9-6e39-4cb0-8be0-3bd42aabfeaa">
 </p>
 
-_Once a ticket is resolved, it is considered "closed", so it will disappear from the Open Tickets page._<br>
-_You can find it under the "Closed" tab, where you can see how many was closed at a certain time frame._
+_Once a ticket is resolved, it is now "closed"; It will disappear from the Open Tickets page._<br>
+_You can find it under the "Closed" tab; You can also see how many tickets were closed within a certain time frame._
 <p align=center>
 <img width="750" alt="Screen Shot 2024-04-05 at 5 40 39 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/147c590d-1c91-4aa4-8a1d-146e56720678">
 </p>
 
-- Continue to go through the rest of the remaining tickets and use best judgement on their Priorty, assignment to departments and teams, etc.
+- Continue to navigate through the remaining tickets and utilize your best judgement on Priorty levels, assignment to departments and teams, etc.
 <p align=center>
 <img width="899" alt="Screen Shot 2024-04-05 at 5 45 06 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/cffdf219-97da-4ed9-93c6-4e5d46c7ea86">
 <img width="902" alt="Screen Shot 2024-04-05 at 5 45 52 PM" src="https://github.com/TerikaJ/ticket-lifecycle/assets/136477450/0fe674cb-7a08-4b72-a758-0a1ed6eec8b9">
