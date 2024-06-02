@@ -123,8 +123,12 @@ _You can find it under the "Closed" tab; You can also see how many tickets were 
 </p>
 <hr>
 
-<h1><p align=center> Done! Good job!</p></h1>
+<h1><p align=center> DONE! Good job! </p></h1>
+
+<h2><p align=center>The Next Demonstration:<br><a href="https://github.com/terikaj/configure-ad"> Install and Configure Active Directory (Windows Server) </a></p></h2>
 
 <p align=right>Please delete & clean up your Azure resources when finished!<br>
 If you're unsure of how to do this, please click <a href="https://github.com/terikaj/azure-begin">HERE</a>
 </p>
+
+
